@@ -30,6 +30,9 @@ header nav section aside footer {
     background: #ebebeb;
     color: #777;
     margin: 30px;
+    
+    
+    /* width: 500px; */
 
 }
 
@@ -39,6 +42,7 @@ header nav section aside footer {
     background: #ebebeb;
     padding: 2px;
     border: 5px;
+    width: 650px;
 
 }
 .nav-style {
@@ -46,6 +50,7 @@ header nav section aside footer {
     color: #777;
     background: #ebebeb;
     padding: 2px;
+    width: 650px;
 
 }
 
@@ -103,7 +108,8 @@ footer {
     background: #ebebeb;
     color: #777;
     padding: 20px;
-
+    width: 650px;
+    
 }
 
 
